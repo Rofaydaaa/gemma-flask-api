@@ -22,7 +22,7 @@ One of the easy way to use your AI model is getting it from Hugging Face and use
 
 ### Get Gemma Model from Hugging Face:
 
-- Visit the Hugging Face website (https://huggingface.co/) and search for the Gemma-2B-IT model.
+- Visit the [Hugging Face website](https://huggingface.co/) and search for the Gemma-2B-IT model.
 
 ### Grant Access and Obtain Access Token:
 
