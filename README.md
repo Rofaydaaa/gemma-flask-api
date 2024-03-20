@@ -1,4 +1,4 @@
-# Demo App for on how to dockerize your gemma model for your flutter app
+# Quick tutorial on how to dockerize your gemma model for your flutter app
 ## Overview
 In the repository, you can find some resources for the Gemma model consumed in a Flask app, a Dockerfile, and how to access the model endpoint running in the container in a Flutter app. Please note that this is not an end-to-end app but rather a template that you can follow based on your requirements. After:
 
